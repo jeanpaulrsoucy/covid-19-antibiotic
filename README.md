@@ -2,7 +2,7 @@
 
 ## Purpose of this repository
 
-This repository contains all code and data necessary to reproduce the analyses presented in the manuscript "Antibiotic prescribing in patients with COVID-19: A rapid review and meta-analysis" by Langford et al. This includes every figure and supplementary figure except for figures 1 and 2. Table 1 is generated as part of the dashboard. Supplementary table 1 comprises a subset of the complete dataset found in the directory `data`.
+This repository contains all code and data necessary to reproduce the analyses presented in the manuscript "[Antibiotic prescribing in patients with COVID-19: rapid review and meta-analysis](https://doi.org/10.1016/j.cmi.2020.12.018)" by Langford et al (doi: [10.1016/j.cmi.2020.12.018](https://doi.org/10.1016/j.cmi.2020.12.018)). This includes every figure and supplementary figure except for figures 1 and 2. Table 1 is generated as part of the dashboard. Supplementary table 1 comprises a subset of the complete dataset found in the directory `data`.
 
 This repository also contains the code necessary to reproduce the interactive [R Shiny](https://shiny.rstudio.com/) dashboard hosted at: [https://brxad.shinyapps.io/covid-19-antibiotic/](https://brxad.shinyapps.io/covid-19-antibiotic/).
 
